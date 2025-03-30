@@ -1,10 +1,10 @@
 # Database configuration
 DB_TYPE=postgresdb
-DB_POSTGRESDB_HOST=aws-0-us-west-1.pooler.supabase.com
+DB_POSTGRESDB_HOST=aws-0-ap-southeast-1.pooler.supabase.com
 DB_POSTGRESDB_PORT=5432
 DB_POSTGRESDB_DATABASE=postgres
-DB_POSTGRESDB_USER=postgres.wwsokatjyfnunntyqtro
-DB_POSTGRESDB_PASSWORD=5A!shA8E.pPeJzU
+DB_POSTGRESDB_USER=postgres.cnvrajjcqzldiyyowxry
+DB_POSTGRESDB_PASSWORD=n8nfreee
 DB_POSTGRESDB_SCHEMA=public
 
 # N8N configuration
